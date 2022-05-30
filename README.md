@@ -1,7 +1,4 @@
 # ProjekAkhirMobile
-### Ardlyansyah
-### Aplikasi Toko Buku
-
 #### Jika Error: 
 ``Cannot run with sound null safety, because the following dependencies
 don't support null safety:...``
